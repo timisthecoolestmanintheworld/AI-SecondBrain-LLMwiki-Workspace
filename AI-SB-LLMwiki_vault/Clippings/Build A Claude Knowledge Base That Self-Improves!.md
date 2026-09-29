@@ -9,6 +9,14 @@ description: "👉 Get my Claude CoWork OS (including this system) at https://be
 tags:
   - "clippings"
 ---
+## Summary Note
+In this BetterCreating video, Simon Pitmann describes how to set up a personal knowledgebase using the [[llm-wiki-Github Gist]] model described by Karpathy, and provides a link to a base skill for building and maintaining it. Those material are at https://tinyurl.com/claudeknowledgekit 
+
+He eludes to his Specialist Agent skill in AgentOS and CoworkOS that self-improve with user interaction - e.g. query and correction. 
+
+## Video Contents
+
+
 ![](https://www.youtube.com/watch?v=ib74sLgjIBM)
 
 👉 Get my Claude CoWork OS (including this system) at https://bettercreating.com/coworkos and find the Knowledge Base Kit below. In this video I build Karpathy's AI knowledge base from scratch in Claude CoWork — in 45 minutes, no Obsidian, no code. You'll get the full architecture (three folders, one CLAUDE.md), the five-step framework, and the Claude Skill that runs the monthly health check for you!  
