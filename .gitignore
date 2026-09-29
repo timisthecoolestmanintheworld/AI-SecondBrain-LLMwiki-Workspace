@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local configuration files
+.env
+.env.local
+
+# Common log and temporary files
+*.log
+.tmp/
